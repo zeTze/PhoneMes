@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhoneMes</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pleaseEnterANumber">请输入电话号码</string>
+    <string name="fastDial">快速拨号</string>
+    <string name="lately">最近</string>
+    <string name="contact">联系人</string>
+</resources>
