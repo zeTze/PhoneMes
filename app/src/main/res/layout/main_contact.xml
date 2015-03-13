@@ -3,15 +3,10 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="500dp"
-    android:visibility="invisible">
+    android:visibility="visible">
 
-
-    <GridView
+    <ListView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/main_dial_gridView"
-        android:numColumns="2"
-        android:columnWidth="100dp"
-        android:stretchMode="columnWidth"
-        android:verticalSpacing="10dp"/>
+        android:id="@+id/listView2" />
 </LinearLayout>
